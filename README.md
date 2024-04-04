@@ -1,24 +1,29 @@
-# Flutter News App
+# CyberNews Aggregator
 
-A simple News application built with Flutter. The news data fetch using a Free REST API provided by NewsAPI.org.
+CyberNews Aggregator is a Flutter application designed to aggregate news from various sources. It utilizes a Free REST API provided by NewsAPI.org to fetch news data.
 
-## How to run this project
+## Running the Project
+To run this project, follow these steps:
 
-Clone this repository using following command.
+Clone this repository using the following command:
 
-`git clone https://github.com/Dilshan97/Flutter-news-app`
+ git clone [https://github.com/mulw/cyberNews/]
 
-Then navigate to the project & install the libraries using following command.
+Navigate to the project directory and install the required dependencies by running:
 
-`flutter pub get`
+*"flutter pub get"*
 
-Go the [newsapi.org](https://newsapi.org) REST API and create an account.
+Visit https://newsapi.org to create an account and obtain an API key.
 
-Go to the `assets/.env` and replace the **API KEY** that you created in previous step.
+Replace the placeholder **API KEY** in the *'assets/.env'* file with the API key you obtained in the previous step.
+
+## App Screenshots
 
 
-## App UI's
+Feel free to explore the app and contribute to its development!
 
-| <img src="https://github.com/Dilshan97/Flutter-news-app/blob/main/screenshots/01.png" style="width: 350px;"/> |  <img src="https://github.com/Dilshan97/Flutter-news-app/blob/main/screenshots/02.png" style="width: 350px;"/>  |
-|--|--|
-| <img src="https://github.com/Dilshan97/Flutter-news-app/blob/main/screenshots/03.png" style="width: 350px;"/> | <img src="https://github.com/Dilshan97/Flutter-news-app/blob/main/screenshots/04.png" style="width: 350px;"/> |
+
+
+
+
+
